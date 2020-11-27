@@ -1,0 +1,26 @@
+{
+  "name": "VendeeGlobe2020_REST_API",
+  "version": "1.0.0",
+  "description": "Unofficial REST API to share Vendée Globe boats locations and ranking",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrarian-systems-consulting/VendeeGlobe2020_REST_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agrarian-systems-consulting/VendeeGlobe2020_REST_API/issues"
+  },
+  "homepage": "https://github.com/agrarian-systems-consulting/VendeeGlobe2020_REST_API#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/node": "^7.12.6",
+    "@babel/preset-env": "^7.12.1"
+  }
+}
